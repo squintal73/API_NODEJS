@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "sidnei_quintal",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "body-parser-xml": "^2.0.1",
+    "express": "^4.17.1",
+    "express-body-parser": "^1.*",
+    "express-body-parser-xml": "^1.*",
+    "express-handlebars": "^5.2.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.7",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "pg-promise": "^10.10.1",
+    "sequelize": "^6.3.5",
+    "xml2js": "^0.4.23"
+  }
+}
